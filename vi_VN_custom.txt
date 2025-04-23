@@ -185,3 +185,4 @@ poor
 disguise
 khóa
 labor
+laziness
