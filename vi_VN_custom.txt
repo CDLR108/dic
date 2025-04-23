@@ -153,3 +153,4 @@ headings
 directory
 of
 open
+journals
