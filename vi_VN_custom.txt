@@ -194,3 +194,4 @@ misinformer
 too
 perfect
 paraphrase
+resourceful
