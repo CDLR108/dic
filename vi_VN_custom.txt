@@ -187,3 +187,4 @@ khóa
 labor
 laziness
 self
+stealer
