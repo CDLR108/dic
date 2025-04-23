@@ -181,3 +181,4 @@ writer
 photocopy
 potluck
 paper
+poor
