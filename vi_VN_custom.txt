@@ -141,3 +141,4 @@ hinari
 scholar
 gov
 13
+details
